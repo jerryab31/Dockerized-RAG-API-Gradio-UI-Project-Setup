@@ -1,0 +1,35 @@
+
+
+services:
+
+    rag-api:
+        build:
+            context: ./RAG
+            dockerfile: Dockerfile.rag
+        container_name: rag_api_service
+        ports:
+            - "8080:8080"
+        networks:
+            - rag-net
+        environment:
+            - RAG_API_URL=http://rag-api:8080
+                
+                
+    gradio-ui:
+        build:
+            context: ./GRADIO 
+            dockerfile: Dockerfile.gradio
+        container_name: gradio_ui_service
+        ports:
+            - "7860:7860"
+        depends_on:
+            - rag-api
+        networks:
+            - rag-net
+            
+networks:
+    rag-net:
+        driver: bridge
+        
+            
+            

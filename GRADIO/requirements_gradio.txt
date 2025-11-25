@@ -1,0 +1,8 @@
+﻿# Python 3.12.12
+
+
+# --- Gradio UI Service Dependencies --- 
+
+
+gradio==5.49.1 
+requests==2.32.4

@@ -1,0 +1,47 @@
+﻿--- URA Bank Loan Product Information ---
+
+
+### Core Consumer Loans
+The fixed interest rate for the **Unsecured Personal Loan** is **7.5%** with a maximum tenure of **60 months** (5 years). This loan is designed for immediate personal financial needs and requires no collateral.
+
+
+The standard **Home Purchase Loan** has a **variable interest rate** (currently **6.8% to 8.2%**) and a maximum tenure of **360 months** (30 years). Mortgage insurance is required for down payments less than 20%.
+
+
+### Specialized Secured Loans
+**Car Loan (New Vehicles Only):**
+* **Maximum Amount:** $50,000
+* **Interest Rate:** 4.5% (fixed)
+* **Maximum Term:** 72 months (6 years)
+* **Pre-payment Penalty:** There is **no pre-payment penalty** after the first year. A 1% penalty applies if the loan is fully closed within the first 12 months.
+* **Collateral:** The vehicle being purchased serves as collateral.
+
+
+**Loan Against Property (LAP):**
+* **Product Name:** L.A.P.
+* **Interest Rate:** 9.0% (variable/floating rate)
+* **Maximum Term:** 180 months (15 years)
+* **LTV Ratio (Loan-to-Value):** The loan amount is capped at **60%** of the property's market valuation.
+* **Purpose:** Can be used for business expansion or personal requirements.
+
+
+**Loan on Credit Card (Cash Advance):**
+* **Purpose:** Short-term, emergency use only.
+* **Interest Rate:** 18.0% (fixed) – very high rate due to unsecured nature.
+* **Maximum Term:** 12 months.
+* **Maximum Limit:** Capped at 50% of the card's available credit limit.
+
+
+--- Bank Services and Compliance ---
+
+
+**Account Disputes:** To dispute a charge or file a complaint, call the dedicated line at **1-800-555-4000**.
+
+
+**Service Fees:** Monthly service fees on checking accounts are **waived** with a minimum **$1,500 daily balance**.
+
+
+**IRA Accounts:** Individual Retirement Accounts (IRA) are only available to customers with a minimum annual deposit of **$5,000**.
+
+
+**Operating Hours:** The main operating hours for all URA Bank branches are **Monday to Friday, 9:00 AM to 5:00 PM** local time.

@@ -1,0 +1,26 @@
+﻿# Python 3.12.12
+
+
+# --- Core Application & Server ---
+fastapi==0.121.3
+uvicorn==0.38.0
+requests==2.32.5
+geopy==2.4.1
+pydantic==2.12.4
+typing-extensions==4.15.0
+
+
+# --- LLM, Embedding, and RAG Frameworks ---
+transformers==4.57.1
+accelerate==1.11.0
+sentence-transformers==5.1.2
+faiss-cpu==1.13.0
+torch==2.8.0      # CORRECTED: Cleaned for CPU-based Docker environment
+
+
+# --- LangChain Ecosystem ---
+langchain-core==1.0.7
+langchain-community==0.4.1
+langchain-huggingface==1.0.1
+langgraph==1.0.3
+langchain-text-splitters==1.0.0
