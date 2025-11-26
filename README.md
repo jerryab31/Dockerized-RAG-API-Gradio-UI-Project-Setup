@@ -15,7 +15,8 @@ This repository contains a fully containerized Retrieval-Augmented Generation (R
 │   └── Dockerfile                 # Builds dockerproject-gradio-ui image
 │
 ├── docker-compose.yml             # Orchestrates API + UI services
-└── README.md                      # Documentation (this file)
+└── README.md                      # Documentation
+
 
 🚀 Project Overview
 
