@@ -4,14 +4,12 @@ This repository contains a fully containerized Retrieval-Augmented Generation (R
 <pre>
 /
 ├── RAG/
-│   ├── app.py                     # RAG API FastAPI backend
-│   ├── rag_agent.ipynb            # Model + FAISS + LangChain logic
+│   ├── rag_main.py                # RAG API FastAPI backend
 │   ├── requirements.txt           # RAG backend Python dependencies
 │   └── Dockerfile                 # Builds dockerproject-rag-api image
 │
 ├── GRADIO/
-│   ├── gradio_client.py           # Frontend client for interacting with RAG API
-│   ├── ui_notebook.ipynb          # Notebook for UI prototype
+│   ├── client_app.py              # Frontend client for interacting with RAG API
 │   ├── requirements_gradio.txt    # Gradio UI dependencies
 │   └── Dockerfile                 # Builds dockerproject-gradio-ui image
 │
